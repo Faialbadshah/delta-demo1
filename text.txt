@@ -54,3 +54,8 @@ by  git commit -am "added something"
 
             *****branches*****
 --> it is used so that we can make initial commit then make many branches and works on diff. code and features 
+1. git branch (to check branch)
+2. git branch -M main (to rename branch)
+3.git checkout -b <-new branch name -> (to create new branch)
+4. git checkout <-branch name-> (to navigate)
+5. git branch -d <branch name> (TO delete)
